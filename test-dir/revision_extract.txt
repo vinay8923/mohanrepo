@@ -1,3 +1,5 @@
+change by vinay
+
 revision_extact_cmd=`svn log $URL_FROM -q -l 100 | grep '^r[0-9]' | sed -e 's/^r\([0-9]*\) .*$/\1/' `
 val=0
 for revision in ${RANGE_REV//,/ }; do
@@ -7,3 +9,5 @@ echo " Given revision available in $URL_FROM.Proceed !!"
 else
 echo " NO revision found in $URL_FROM "
 fi 
+
+vinay
