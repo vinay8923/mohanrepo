@@ -1,4 +1,4 @@
-
+df
 
 
 revision_extact_cmd=`svn log $URL_FROM -q -l 100 | grep '^r[0-9]' | sed -e 's/^r\([0-9]*\) .*$/\1/' `
