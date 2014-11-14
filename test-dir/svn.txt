@@ -19,3 +19,4 @@ mohan=r
 [/]
 * = r
 test=rw
+for checking
