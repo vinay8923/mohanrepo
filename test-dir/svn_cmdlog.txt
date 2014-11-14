@@ -2,3 +2,5 @@ svn log http://chimay/repos/architecture/trunk/Anthologic/ -q -l 100 | egrep '^r
 
 
 | sed -e 's/^r\([0-9]*\) .*$/\1/'
+
+vinay changes here
