@@ -10,4 +10,3 @@ else
 echo " NO revision found in $URL_FROM "
 fi 
 
-test case
