@@ -1,9 +1,4 @@
-commit by mohan
-
-1
-2
-3
-4
+1 2 3 4
 [dev:/branches/components/xxx]
 
 https://idcmagellan-svnrepos.com:8085/svn/access-pro 
