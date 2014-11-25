@@ -15,3 +15,56 @@ mohan=r
 * = r
 test=rw
 for checking
+1 2 3 4
+[dev:/branches/components/xxx]
+
+https://idcmagellan-svnrepos.com:8085/svn/access-pro 
+
+[access-pro:/trunk/]
+mohan=rw
+
+[access-pro:/branches/]
+test=r
+mohan=r
+
+
+[/]
+* = r
+test=rw
+for checking
+
+1 2 3 4
+[dev:/branches/components/xxx]
+
+https://idcmagellan-svnrepos.com:8085/svn/access-pro 
+
+[access-pro:/trunk/]
+mohan=rw
+
+[access-pro:/branches/]
+test=r
+mohan=r
+
+
+[/]
+* = r
+test=rw
+for checking
+
+1 2 3 4
+[dev:/branches/components/xxx]
+
+https://idcmagellan-svnrepos.com:8085/svn/access-pro 
+
+[access-pro:/trunk/]
+mohan=rw
+
+[access-pro:/branches/]
+test=r
+mohan=r
+
+
+[/]
+* = r
+test=rw
+for checking
